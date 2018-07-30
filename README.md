@@ -10,7 +10,6 @@ My development goals for the second half of 2018.
   <li> Weather-Forecast: Simple weather forecast app using https://openweathermap.org/api. </li>
   <li> Tinder-Like-Cards: Create a widget like Tinder´s swipeable cards. </li>
   <li> Butterfly: App that suggests you what to do spontaneously. Uses widget from previous point. </li>
-  <li> Flutter-Redux: Build an app using the Redux paradigm. </li>
 </ul>
 
 
