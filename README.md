@@ -1,5 +1,5 @@
 # Bullet-List-2018
-My development goals for the second half of 2018. 
+My development goals for the second half of 2018. Every of the completed projects will have its own repository and open source. 
 
 ### Create the following apps using Flutter:
 
